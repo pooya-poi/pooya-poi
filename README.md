@@ -1,10 +1,3 @@
-
-<div align="center">
-  <img height="150" src="https://github.com/pooya-poi/pooya-poi/blob/main/banner.png"  />
-</div>
-
-###
-
 <h2 align="left">hey there 👋 i'm Pooya</h2>
 
 ###
