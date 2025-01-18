@@ -70,7 +70,7 @@
 </div>
 
 <div align="left" style="display:flex;align-item; gap:5px; ">
-<img src="https://streak-stats.demolab.com?user=pooya-poi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=6&order=3" height="150"  alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=pooya-poi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=6&order=3" height="150"  alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooya-poi&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Pooya's%20Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
 
