@@ -64,7 +64,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=pooya-poi&theme=discord&column=9&row=1&margin-w=8&margin-h=10&no-frame=true&order=4" height="100" alt="trophy graph" /> <br>
 
   <div align="left" style="display:flex;align-item; gap:5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooya-poi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooya-poi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-poi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   </div>
 </div>
