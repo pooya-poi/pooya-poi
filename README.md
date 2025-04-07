@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">👩‍💻 MS in software engineering<br>🕸️ web developer</h4>
+<h4 align="left">👩‍💻 M. Sc. in Software engineering<br>🕸️ web developer</h4>
 
 ###
 
